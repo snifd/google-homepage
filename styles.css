@@ -1,0 +1,146 @@
+#footerr{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    
+}
+
+#form1{
+    display:flex;
+    justify-content: center;
+}
+
+#imgin {
+    display:flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    
+}
+
+
+#form1 #imgin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+#box0{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end; 
+    padding-bottom: 100px;
+    
+}
+
+#box1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+}
+
+#box1dot5{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}   
+
+#box1dot55{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#box2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color:#f1f1f1;
+    border-bottom: 0.05px solid black; 
+    border-top: 0.05px solid black;
+    height: 50px;
+}
+
+
+#column1{
+    display:column;
+}
+.h6One{
+    padding: 5px 5px;
+}
+.h6Two{
+    padding: 5px 5px;
+}
+.h6Three{
+    padding: 5px 5px;
+    background-color: blue;
+}
+.elit{
+    padding: 10px 15px;
+    background-color: lightgray;
+    font-weight: 125;
+}
+.elit:hover{
+    padding: 12px 18px;
+}
+
+.elit2{
+    padding: 10px 15px;
+    background-color: lightgray; 
+    font-weight: 125; 
+}
+.elit2:hover{
+    padding: 12px 18px;
+}
+
+#box3{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    position: absolute;
+    bottom: 0;
+    background-color: #f3f3f3;
+    height: 50px;
+    border-bottom: 0.05px solid black;
+    
+}
+
+
+
+#list1{
+    color: blue
+}
+
+#box3dot1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #f3f3f3;
+    height: 50px;
+    border-bottom: 0.05px solid black;
+}    
+
+img{
+    display: flex;
+    justify-content: center 
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+     
+}
+
+ul li a{
+    text-decoration: none;
+    color: #1e1e1e;
+    font-size: 14px
+}
+
+ul li a:hover{
+    text-decoration: underline;
+}

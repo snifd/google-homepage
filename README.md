@@ -1,1 +1,2 @@
-# google-homepage
+# google-homepage 
+to demonstrate a basic understanding of the fundamentals of html and especially css with two google projects. the first showing just the google search page and the second showing a search result page.The pages should be as similar to the originals as much as pssible. these projects are expected to take a week atmost to make so i expect to be done by 6pm on the 17th of october. it's 7:30am on the 11th of october right now
